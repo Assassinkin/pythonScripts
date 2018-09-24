@@ -12,7 +12,7 @@ surnames = json.loads(open('surnames.com').read())
 words = json.loads(open('words.json').read())
 
 # Update this with the url where the post request is carrying the login and password.
-url = 'Some url you have a grudge for :p'
+url = 'Some url you have a grudge against :p'
 #how many false login and passwd you want to flood the phishing site with.
 loginAttempts = 100
 # how the login field is referenced in the phishing web page
