@@ -18,7 +18,7 @@ loginAttempts = 100
 # how the login field is referenced in the phishing web page
 login_reference = 'login'
 # how the password field is referenced in the phishing web page
-passwd_reference = 'password'
+password_reference = 'password'
 
 for i in range(loginAttempts):
     username = random.choice(names).lower() + random.choice(surnames).lower()
