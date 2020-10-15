@@ -1,0 +1,1 @@
+more details in here: https://docs.aws.amazon.com/apigateway/latest/developerguide/integrating-api-with-aws-services-lambda.html#api-as-lambda-proxy-create-lambda-function
